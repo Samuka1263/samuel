@@ -1,4 +1,4 @@
-# Criando um array de 5 posições vazias
+# CRIANDO UM SISTEMA DE FILA, representando o cenário de atendimento de clientes ou tarefas a serem processadas
 class PersonalArray:
     SIZE = 5
     insertPosition = 0
